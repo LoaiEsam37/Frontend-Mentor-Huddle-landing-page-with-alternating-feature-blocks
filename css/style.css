@@ -118,6 +118,10 @@ header .container .header__content a:hover {
         margin-left: 20px;
         margin-right: 20px;
     }
+
+    header {
+        background-image: url(../images/bg-hero-mobile.svg);
+    }
 }
 
 @media (max-width: 500px) {
